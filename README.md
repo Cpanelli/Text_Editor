@@ -13,6 +13,10 @@ Offline Functionality: The application works offline thanks to service worker in
 Responsive Design: The user interface is designed to be responsive and optimized for various screen sizes, including desktop and mobile devices.
 
  ##  Screenshots
+![Screenshot 2024-02-12 at 4 41 27 PM](https://github.com/Cpanelli/Text_Editor/assets/133393733/41920dd0-d7fe-42ff-8dbd-ab4596028a13)
+![Screenshot 2024-02-12 at 4 42 48 PM](https://github.com/Cpanelli/Text_Editor/assets/133393733/cd5494f7-df8e-47fd-b33c-fcbc3823885b)
+![Screenshot 2024-02-12 at 4 43 18 PM](https://github.com/Cpanelli/Text_Editor/assets/133393733/862a3182-3d43-4f6f-93c1-779220b1570c)
+![Screenshot 2024-02-12 at 4 43 33 PM](https://github.com/Cpanelli/Text_Editor/assets/133393733/68d2728f-6b6c-44ff-a9b6-21c562aa0497)
 
 
 ## Installation and Setup
